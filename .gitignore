@@ -1,0 +1,7 @@
+# Ignore the Frames folder and all its contents
+Frames/
+
+# Ignore the videos folder and all its contents
+videos/
+
+.venv
